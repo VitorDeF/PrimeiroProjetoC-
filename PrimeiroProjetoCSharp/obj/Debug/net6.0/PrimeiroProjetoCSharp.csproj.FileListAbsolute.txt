@@ -1,0 +1,15 @@
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.sourcelink.json
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.exe
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.deps.json
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.runtimeconfig.json
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.dll
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.pdb
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.dll
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\refint\PrimeiroProjetoCSharp.dll
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.pdb
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.genruntimeconfig.cache
+C:\Users\dti Digital\source\repos\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\ref\PrimeiroProjetoCSharp.dll
